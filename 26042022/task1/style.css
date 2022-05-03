@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    background-color: #eaf7ff;
+}
+
+.box{
+    line-height: 30px;
+    width: 600px;
+    height: 90vh;
+    background-color: white;
+    margin-top: 25px;
+}
+
+.box h1{
+    text-align: center;
+}
+
+.box .button{
+    background-color: blue;
+    display: flex;
+    margin: auto;
+    margin-top: 30px;
+}
